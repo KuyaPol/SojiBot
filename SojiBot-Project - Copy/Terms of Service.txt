@@ -1,0 +1,25 @@
+📜 Terms of Service – SojiBot
+Effective Date: June 30, 2025
+
+Welcome to SojiBot! By using this Discord bot, you agree to the following terms:
+
+1. Usage
+You must be at least 13 years old or comply with your country's age requirement to use Discord.
+
+You may not use SojiBot for spam, abuse, or any illegal activity.
+
+You are responsible for any actions performed using SojiBot in your server.
+
+2. Bot Access
+SojiBot is provided "as is" without warranty of any kind.
+
+We reserve the right to deny or restrict access to SojiBot at any time for violations of these terms.
+
+3. Changes
+These Terms of Service may be updated at any time. Major changes will be announced on the bot’s support server or update log.
+
+4. Limitation of Liability
+SojiBot’s developers are not liable for damages or loss caused by misuse, data loss, or bot outages.
+
+5. Contact
+For support or questions, please contact the SojiBot development team via the official support server.

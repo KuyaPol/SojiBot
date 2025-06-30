@@ -1,0 +1,39 @@
+🔒 Privacy Policy – SojiBot
+Effective Date: June 30, 2025
+
+This policy outlines what data SojiBot collects, stores, and how it's used.
+
+1. What Data We Collect
+SojiBot may collect the following:
+
+User IDs and Guild IDs to manage bot configurations per server.
+
+Message timestamps or activity flags (for inactivity checks).
+
+Role IDs used for automated role removal.
+
+Usernames/tags for logging purposes (e.g., when DMs fail).
+
+No message content is read or stored.
+
+2. How We Use the Data
+To monitor user inactivity and assign/remove roles based on server settings.
+
+To display logs (e.g., which users were flagged or notified).
+
+For bot functionality only — not shared or sold to third parties.
+
+3. Data Storage
+All data is stored temporarily in memory or local storage.
+
+We do not store persistent user data unless required for bot features.
+
+Data is removed if no longer needed or upon server removal.
+
+4. Your Rights
+Server owners can request deletion of all data related to their server by removing SojiBot or messaging the developer.
+
+Users can request removal of their flagged data via the support server.
+
+5. Contact
+For privacy-related concerns, contact the SojiBot developer team via the official support Discord.

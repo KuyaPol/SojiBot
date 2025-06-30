@@ -1,0 +1,7 @@
+{
+  "default": {
+    "INACTIVE_DAYS": 7,
+    "ROLE_TO_REMOVE": "1234567890",
+    "LOG_CHANNEL_ID": "0987654321"
+  }
+}
